@@ -1,0 +1,134 @@
+body{
+	font-family: Manjari;
+}
+.container{
+	width: 700px;
+	overflow: hidden;
+	margin: 0 auto;
+	height: 350px;
+	margin-top: 100px;
+	box-shadow:  5px 10px 10px 5px #eaeaea;
+}
+.logimg{
+	float: left;
+	width: 350px;
+	height: 350px;
+	background-image: url("../image/login.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.logtext{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 150px;
+	color: white;
+}
+.logform{
+	float: right;
+	width: 350px;
+	height: 350px;
+}
+.lo{
+	margin-left: 35px;
+	font-size: 25px;
+}
+.email{
+	margin-left: 35px;
+    margin-top: 10px;
+    padding-right: 92px;
+    color: #806c6c;
+}
+.password{
+	margin-left: 35px;
+    margin-top: 10px;
+    padding-right: 92px;
+    color: #806c6c;
+}
+.login{
+    margin-left: 35px;
+    border: 1px solid white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 13px;
+    padding-left: 13px;
+    border-radius: 15px;
+    margin-top: 10px;
+    color: white;
+    background-color: #3f5bbfd9;
+}
+.login:hover{
+	border: 1px solid blue;
+	color: white;
+	background-color: blue;
+}
+a{
+	text-decoration: none;
+}
+.back{
+	font-size: 13px;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+.forget{
+	font-size: 13px;
+    margin-left: 35px;
+    float: right;
+    margin-right: 52px;
+    margin-top: -29px;
+}
+.Admin{
+	margin-top: 70px;
+    margin-left: 462px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.Teacher{
+	margin-top: 70px;
+	border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.Parent{
+	margin-top: 70px;
+	border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.Student{
+	margin-top: 70px;
+	border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.Accountant{
+	margin-top: 70px;
+	border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.Librarian{
+	margin-top: 70px;
+	border: 2px solid transparent;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
